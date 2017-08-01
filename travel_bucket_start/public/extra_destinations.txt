@@ -1,0 +1,257 @@
+Some Destinations!
+
+You can use these to add to your database. I mean, who wouldn't want to go to these places?
+
+Good source for decimal latitudes and longitudes: http://www.latlong.net/
+
+
+Name: Moskenesøya, Norway
+Image URL: http://img.xcitefun.net/users/2013/11/343312,xcitefun-lofoten-2.jpg
+Lat: 67.967979
+Long: 12.964527
+
+
+Name: Cameroon
+Image URL: https://afktravel.com/wp-content/uploads/2015/09/cameroon-waterfall.jpg
+Lat: 7.369722
+Long: 12.354722
+
+
+Name: Transnistria
+Image URL: https://upload.wikimedia.org/wikipedia/commons/0/03/Pridnestrovie_military_parade.jpg
+Lat: 47.215297
+Long: 29.463805
+
+
+Name: St-Pierre et Miquelon
+Image URL: http://static.parcourscanada.com/parcours/carrousel/village-pecheurs-burin.jpg
+Lat: 46.885200
+Long: -56.315900
+
+
+Name: Mongolia
+Image URL: http://img.ev.mu/images/attractions/2481/600x400/5112.jpg
+Lat: 46.862496
+Long: 103.846656
+
+
+Name: Novaya Zemlya
+Image URL: http://siberiantimes.com/PICTURES/ECOLOGY/Novaya-Zemlya-nuclear-pollution-expedition-Sep-2013/standard%20panorama.jpg
+Lat: 73.754084
+Long: 60.250193
+
+
+Name: Luxor, Egypt
+Image URL: http://paradiseintheworld.com/wp-content/uploads/2012/11/luxor-egypt.jpg
+Lat: 25.687243
+Long: 25.687243
+
+
+Name: Yukon Territory
+Image URL: http://www.wediscovercanada.ca/img/yukon_landscape.jpg
+Lat: 64.282327
+Long: -135.000000
+
+
+Name: Suriname
+Image URL: http://2.bp.blogspot.com/-jP4I06Kqo70/VJ6q8JK3BaI/AAAAAAAABN8/egS5ph5uFTI/s1600/Rainforrest-Suriname-2011-Sealiberty-Cruising%2B(15).jpg
+Lat: 3.919305
+Long: -56.027783
+
+
+Name: Iowa
+Image Url: https://assets.donaldjtrump.com/iowa.jpg
+Lat: 41.878003
+Long: -93.097702
+
+
+Name: St.Kilda, Scotland
+Image URL: https://c1.staticflickr.com/4/3560/3599339708_20521829ab_b.jpg
+Lat: 57.836497
+Long: -8.563544
+
+
+Name: Tajikistan
+Image URL: http://www.nationsonline.org/gallery/Tajikistan/Shohon-village-Hissar-district.jpg
+Lat: 38.861034
+Long: 71.276093
+
+
+Name: Iceland
+Image URL: https://media1.britannica.com/eb-media/06/171306-120-D379ACBF.jpg
+Lat: 64.963051
+Long: -19.020835
+
+
+Name: El Salvador
+Image URL: http://static.temblor.net/wp-content/uploads/2017/05/san-salvador.jpg
+Lat: 13.794185
+Long: -88.896530
+
+
+Name: Brunei
+Image URL: http://borneoadventure.com/v3/wp-content/uploads/2013/05/BRN_DK_712.jpg
+Lat: 4.535277
+Long: 114.727669
+
+
+Name: Pitcairn Island
+Image URL: http://i.telegraph.co.uk/multimedia/archive/03202/pitcairn_3202622b.jpg
+Lat: -25.066290
+Long: -130.100464
+
+
+Name: Arctic Bay, Nunavut
+Image Url: http://3.bp.blogspot.com/_copRHv93JEI/TTMZzMh5StI/AAAAAAAAFQs/EITi7LPgld4/s1600/37043686-2.jpg
+Lat: 73.037575
+Long: -85.148031
+
+
+Name: Oman
+Image URL: http://www.telegraph.co.uk/content/dam/Travel/leadAssets/28/40/oman_2840007a-xlarge.jpg
+Lat: 21.473533
+Long: 55.975413
+
+
+Name: Haarlem, Netherlands
+Image URL: https://media-cdn.tripadvisor.com/media/photo-s/02/23/b8/f1/haarlem-paesi-bassi.jpg
+Lat: 52.387388
+Long: 4.646219
+
+
+Name: Moose Jaw
+Image URL: http://4.bp.blogspot.com/--4Rksmesv3M/U73BY_GBKHI/AAAAAAAABzQ/aLnbbkyA4CE/s1600/Buffalo+Pound+Provincial+Park+007.JPG
+Lat: 50.391581
+Long: -105.534856
+
+
+Name: New Zealand
+Image URL: http://images2.travelerstoday.com/data/images/full/29250/5-things-you-need-to-know-about-visiting-new-zealand.jpg
+Lat: -40.900557
+Long: 174.885971
+
+
+Name: Kolmanskop, Namibia
+Image URL: http://www.craiglotter.co.za/wp-content/uploads/2016/11/desert-sand-and-the-abandoned-mining-town-of-kolmanskop-in-namibia-1.jpg
+Lat: -26.704992
+Long: 15.232645
+
+
+Name: Bhutan
+Image URL: https://media.gadventures.com/media-server/cache/ca/47/ca47099472986277c9b341472b83d9ac.jpg
+Lat: 27.514162
+Long: 90.433601
+
+
+Name: Bretagne, France
+Image URL: http://blog.eurail.com/wp-content/uploads/2016/04/The-Port-of-Dinan-France.jpg
+Lat: 48.202047
+Long: -2.932644
+
+
+Name: Timor-Leste
+Image URL: http://visiteasttimor.com/wp-content/gallery/photos/Traditional-Home-in-Timor-Leste-by-United-Nations-Photo.jpg
+Lat: -8.874217
+Long: 125.727539
+
+
+Name: Serbia
+Image URL: http://i2.mirror.co.uk/incoming/article3219680.ece/ALTERNATES/s1200/Serbia.jpg
+Lat: 44.016521
+Long: 21.005859
+
+
+Name: Kyoto, Japan
+Image URL: http://static5.businessinsider.com/image/5818c9bbdd08956c5a8b47b1/19-photos-that-show-why-kyoto-and-tokyo-were-voted-the-best-cities-in-the-world.jpg
+Lat: 35.011636
+Long: 135.768029
+
+
+Name: Latvia
+Image URL: http://immigration-latvia.com/wp-content/uploads/2014/11/Beautiful-Riga1.png
+Lat: 56.879635
+Long: 24.603189
+
+
+Name: Anguilla
+Image URL: https://static01.nyt.com/images/2015/10/10/travel/11CaribbeanAnguilla/11CaribbeanAnguilla-master1050.jpg
+Lat: 18.220554
+Long: -63.068615
+
+
+Name: Irkutsk, Siberia
+Image URL: http://www.remotelands.com/images/citys/150122032.jpg
+Lat: 52.286974
+Long: 104.305018
+
+
+Name: Tchad
+Image URL: https://s-media-cache-ak0.pinimg.com/736x/05/3d/73/053d73ee08a96cc1670cef0bed5e4198--wallpaper-pack-lakes.jpg
+Lat: 15.454166
+Long: 18.732207
+
+
+Name: Antarctica
+Image URL: https://www.abercrombiekent.com/travel-destinations/antarctica-cruise/images/classic-antarctica-penguins-2up.jpg
+Lat: -82.862752
+Long: 135.000000
+
+
+Name: Bolivia
+Image URL: https://www.kyvernitis.gr/wp-content/uploads/2014/09/day-11.jpg
+Lat: -16.290154
+Long: -63.588653
+
+
+Name: Sardinia
+Image URL: http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Italy/Sardinia/Sardinia---Itineraries---Calgari-xlarge.jpg
+Lat: 40.120875
+Long: 9.012893
+
+
+Name: Madagascar
+Image URL: http://www.telegraph.co.uk/content/dam/Travel/2017/june/cycling%20131314241_Cultura%20Exclusive_Madagascar-xlarge.jpg
+Lat: -18.766947
+Long: 46.869107
+
+
+Name: Liechtenstein
+Image URL: http://i.imgur.com/RMlRr.jpg
+Lat: 47.166000
+Long: 9.555373
+
+
+Name: Himachal Pradesh
+Image URL: http://www.caleidoscope.in/wp-content/uploads/2014/12/Himachal-Pradesh-Lahaul-Spiti.jpg
+Lat: 31.104829
+Long: 77.173390
+
+
+Name: Haida Gwaii
+Image URL: https://www.thestar.com/content/dam/thestar/life/travel/2016/09/30/five-spots-to-explore-in-haida-gwaii/5-boats-on-shore.jpg.size.custom.crop.1086x611.jpg
+Lat: 51.922753
+Long: -129.917301
+
+
+Name: Andorra
+Image URL: http://www.andorrawelcome.com/wp-content/uploads/2016/04/andorra.jpg
+Lat: 42.506285
+Long: 1.521801
+
+
+Name: Tasmania
+Image URL: http://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2016/05/LI3350009@149_CapeRaoul_1-1.jpg
+Lat: -41.454520
+Long: 145.970665
+
+
+Name: Nakhchivan
+Image URL: http://photobaku.com/wp-content/uploads/2015/05/azerbaijan-nakhchivan-32.jpg
+Lat: 39.325681
+Long: 45.491265
+
+
+Name: Malta
+Image URL: http://josephbraude.com/wp-content/uploads/2016/10/malta-country.jpg
+Lat: 35.937496
+Long: 14.375416

@@ -1,16 +1,11 @@
 // we need mongoose to talk to MongoDB
-var mongoose = require('mongoose');
+// REQUIRE MONGOOSE HERE
 
 // we create a new schema
-var DestinationSchema = new mongoose.Schema({
-	destinationName: String,
-	destinationImageUrl: String,
-	destinationLat: String,
-	destinationLong: String,
-});
+// CREATE THE DESTINATION SCHEMA HERE
 
 // we instantiate our schema
-var Destination = mongoose.model('Destination', DestinationSchema);
+// INSTANTIATE THE SCHEMA HERE
 
 // we export the Image schema
-module.exports = Destination;
+// EXPORT THE SCHEMA HERE

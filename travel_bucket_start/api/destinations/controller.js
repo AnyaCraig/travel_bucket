@@ -12,7 +12,7 @@ exports.index = function(req,res){
 };
 
 // this function removes the destination with the specific id
-// we passed it (in our React App component)
+// we passed it (from our React App component)
 // then sends a message of "okay" when it's done
 exports.destroy = function(req, res){
 	Destination.remove({ _id: req.params.id })

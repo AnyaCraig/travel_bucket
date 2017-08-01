@@ -1,7 +1,7 @@
 {
-  "name": "express-spa-example",
+  "name": "travel-bucket",
   "version": "1.0.0",
-  "description": "",
+  "description": "A travel wish list app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

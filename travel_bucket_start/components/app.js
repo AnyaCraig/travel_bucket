@@ -61,12 +61,6 @@ class App extends React.Component {
 		this.openModal = this.openModal.bind(this);
 		this.closeModal = this.closeModal.bind(this);
 		this.addNewDestination = this.addNewDestination.bind(this);
-
-		// we can uncomment the two functions below 
-		// when we're ready to hook this up to the database
-		
-		// this.deleteImage = this.deleteImage.bind(this);
-		// this.refresh = this.refresh.bind(this);
 	}
 
 	// open the modal
@@ -170,10 +164,10 @@ class App extends React.Component {
 				  	<div className='destinations'>
 
 					{
-						// here, we map over the list of destinations in state and return JSX for each image
+						// here, we map over the list of destinations in state and return JSX for each destination
 						this.state.destinations.map((destination, i) => {
 
-							//set the image as a background
+							//set the destination image as a background
 							let divStyle = {
 			       				backgroundImage: 'url(' + destination.destinationImageUrl + ')'
 			   				};
@@ -220,7 +214,7 @@ class App extends React.Component {
 
 			</div>
 
-		)
+		);
 	}
 }
 

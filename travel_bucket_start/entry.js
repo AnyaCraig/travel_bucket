@@ -4,12 +4,12 @@ var React = require('react');
 // we need ReactDOM, too, to render our app into the placeholder
 var ReactDOM = require('react-dom');
 
-// we need all this router stuff to manage our routes
+// we will need all this router stuff to manage our routes
+// if our app grows larger - for example, if we add a map page
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 
-// we need to import our custom components
+// we need to import our custom component
 import App from './components/app';
 
 // here, we render our app into the placeholder div in index.html
-// TODO: Render your routes inside the router
 ReactDOM.render(<App />, document.getElementById("placeholder"));
