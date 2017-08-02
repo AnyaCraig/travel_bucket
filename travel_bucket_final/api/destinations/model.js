@@ -5,8 +5,8 @@ var mongoose = require('mongoose');
 var DestinationSchema = new mongoose.Schema({
 	destinationName: String,
 	destinationImageUrl: String,
-	destinationLat: String,
-	destinationLong: String,
+	destinationLat: Number,
+	destinationLong: Number,
 });
 
 // we instantiate our schema
