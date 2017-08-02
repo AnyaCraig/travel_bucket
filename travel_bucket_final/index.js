@@ -17,7 +17,7 @@ var webpackMiddleware = require('webpack-dev-middleware');
 var mongoose = require('mongoose');
 
 // this connects you to your database
-mongoose.connect('mongodb://localhost/travel');
+mongoose.connect('mongodb://localhost/travel_bucket');
 
 // middleware that parses the req body
 var bodyParser = require('body-parser');

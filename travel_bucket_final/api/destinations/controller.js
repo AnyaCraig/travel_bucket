@@ -29,5 +29,5 @@ exports.create = function(req, res) {
   destination.destinationLat = req.body.destinationLat;
   destination.destinationLong = req.body.destinationLong;
   destination.save()
-  .then(destination => res.send(destination));
+  .then((destination) => res.send(destination));
 };
